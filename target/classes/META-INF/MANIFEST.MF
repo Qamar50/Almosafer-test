@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: JABARI 4 COMPUTER
+Build-Jdk: 20
+Created-By: Maven Integration for Eclipse
+

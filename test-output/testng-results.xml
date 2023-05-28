@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-28T12:04:03 AST" name="Default suite" finished-at="2023-05-28T12:04:09 AST" duration-ms="5845">
+    <groups>
+    </groups>
+    <test started-at="2023-05-28T12:04:03 AST" name="Default test" finished-at="2023-05-28T12:04:09 AST" duration-ms="5845">
+      <class name="testcases">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:testcases@705202d1]" started-at="2023-05-28T12:04:03 AST" name="BeforeTest" finished-at="2023-05-28T12:04:03 AST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="Check_The_Website_Language()[pri:0, instance:testcases@705202d1]" started-at="2023-05-28T12:04:03 AST" name="Check_The_Website_Language" finished-at="2023-05-28T12:04:05 AST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_The_Website_Language -->
+        <test-method signature="Defult_Currency_SAR()[pri:0, instance:testcases@705202d1]" started-at="2023-05-28T12:04:05 AST" name="Defult_Currency_SAR" finished-at="2023-05-28T12:04:05 AST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Defult_Currency_SAR -->
+        <test-method signature="Hotels_Tab_Is_Not_Selected()[pri:0, instance:testcases@705202d1]" started-at="2023-05-28T12:04:05 AST" name="Hotels_Tab_Is_Not_Selected" finished-at="2023-05-28T12:04:05 AST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hotels_Tab_Is_Not_Selected -->
+        <test-method signature="Location_Field()[pri:0, instance:testcases@705202d1]" started-at="2023-05-28T12:04:05 AST" name="Location_Field" finished-at="2023-05-28T12:04:07 AST" duration-ms="2191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Location_Field -->
+        <test-method signature="Test_Qitaf_Logo()[pri:0, instance:testcases@705202d1]" started-at="2023-05-28T12:04:07 AST" name="Test_Qitaf_Logo" finished-at="2023-05-28T12:04:09 AST" duration-ms="1198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Qitaf_Logo -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:testcases@705202d1]" started-at="2023-05-28T12:04:09 AST" name="AfterTest" finished-at="2023-05-28T12:04:09 AST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
